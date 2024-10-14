@@ -1,0 +1,19 @@
+File tab open : ctl+b
+
+search for file : ctl+p
+
+open 2nd window : ctl+\
+
+move a line : alt+up/down
+
+copy a line: alt+shift+down
+
+create new line: ctl+enter
+
+vs code to browser: alt+tab
+
+select next smilat item: ctl+d
+
+scroll: ctl+up/down
+
+select : shift+arrowKey
